@@ -1,0 +1,6 @@
+emoji
+easygui
+pyfiglet
+pycolords
+asyncio
+pynput

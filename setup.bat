@@ -1,0 +1,10 @@
+pip install colorama
+pip install numpy
+pip install discum
+pip install requests
+pip install pyfiglet
+pip install ctypes
+pip install pyfade
+pip install websocket
+pip install emoji
+pip install base64
