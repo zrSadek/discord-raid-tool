@@ -18,7 +18,7 @@ Custom made discord Raiding tool only using python 3.9
 * To suggest features, create an issue
 
 # Requirements
-- Python 3
+- Python 3 
 - Discord Tokens
 
 Libraries:
