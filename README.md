@@ -11,7 +11,7 @@ Custom made discord Raiding tool only using python 3.9
 4. Run the BitRaider.py file
 
 # Achievements
-- 20 Stars - Extreme Nuke (Delete whole server)
+- 20 Stars - Extreme Nuke (Delete whole server) 
 - 50 Stars - Recode Hchapta Solver
 - 100 Stars - Complete Recode + Your Ideas
 
