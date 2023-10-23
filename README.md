@@ -19,7 +19,7 @@ Custom made discord Raiding tool only using python 3.9
 
 # Requirements
 - Python 3 
-- Discord Tokens  
+- Discord Tokens   
 
 Libraries:
 - colorama
